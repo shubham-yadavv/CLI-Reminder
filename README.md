@@ -3,21 +3,13 @@ A CLI tool which will remind you to complete any task that you entered
 
 ## Usage
 
-1. clone the repository 
+1. download the executable from release
 
-`git clone https://github.com/shubham-yadavv/CLI-Reminder.git`
+2. Provide execution permission - `chmod +x ~/Downloads/cli-reminder`
 
-2. run the tool
+3. Copy binary file to /usr/local/bin - `cp ~/Downloads/cli-reminder /usr/local/bin/cli-reminder`
 
-
-
-- download the executable from release
-
-- Provide execution permission - `chmod +x ~/Downloads/cli-reminder`
-
-- Copy binary file to /usr/local/bin - cp ~/Downloads/cli-reminder /usr/local/bin/cli-reminder
-
-- Execute the application from anywhere 
+4. Execute the application from anywhere 
 
 
 eg: `cli-reminder 12:16 drink water`
